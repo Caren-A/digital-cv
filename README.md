@@ -1,4 +1,4 @@
-## **Hola!**:wave: Mi nombre es Atala Caren
+## **Hola!** 👋 Mi nombre es Atala Caren
 ######       _Estudiante de Lic. en Informatica_ :argentina:
 
 ###### __Me interesa aprender nuevas tecnologias y herramientas sobre el GRAN MUNDO del _Desarrollo___ <br>__Actualmente me encuentro aprendiendo _Testing (Manual y Automation)___
